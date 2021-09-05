@@ -6,7 +6,7 @@
 
 1. Сделайте свою **приватную** копию репозитория. Как это сделать, описано [тут](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) или [тут](https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private).
 
-2. Добавьте проверяющего в коллабораторы. Почта: schastlivtsevna@yandex.ru, username: naschastliv
+2. Добавьте проверяющих в коллабораторы. GitHub логины: naschastliv, vikto9494.
 
 
 ### Настройка Jupyter ###
